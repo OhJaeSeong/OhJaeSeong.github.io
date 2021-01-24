@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl"
   Google search results) and in your feed.xml site description.
 
 baseurl: "https://ohjaeseong.github.io/index.html"# the subpath of the site
-url: http://ohjaeseong.github.io # the base hostname & protocol for your site
+url: http://starry9.github.io/catbook # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
